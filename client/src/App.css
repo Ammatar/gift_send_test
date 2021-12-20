@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.sub_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.registration {
+  border: 1px solid black;
+}
+
+.statusBar_container {
+  border: 1px solid black;
+}
+
+.playerList_container {
+  border: 1px solid black;
+}
+
+.giftStatus_container {
+  border: 1px solid black;
+}
+/*# sourceMappingURL=App.css.map */
